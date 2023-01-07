@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+  }
+  body {
+    background-color: black;
+  }
+  .container {
+    width: 75vw;
+    margin: auto;
+  }
+  
+  .positiveValues {
+    color: green;
+  }
+  
+  .negativeValues {
+    color: red;
+  }
+  
+  table {
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 100vh;
+    border-collapse: collapse;
+  }
+  tr {
+    height: 80px;
+    border-bottom: 1px solid white;
+    text-align: right;
+  }
+  
